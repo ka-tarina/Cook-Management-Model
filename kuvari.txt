@@ -1,0 +1,9 @@
+Kuvar:
+Ime i prezime: Marko Markovic
+Adresa: Primorska 18
+Broj telefona: 064-444-4444
+
+Kuvar:
+Ime i prezime: Jovana Jovanovic
+Adresa: Paunova 84
+Broj telefona: 888-888-8888

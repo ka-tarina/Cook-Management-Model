@@ -1,0 +1,14 @@
+sreda
+
+Jelo: boranija
+
+Ime i prezime: Jovana Jovanovic
+Adresa: Paunova 84
+Broj telefona: 888-888-8888
+Broj obroka: 40
+Namirnice:
+- boranija (6.0 kg)
+- meso (4.0 kg)
+- sargarepa (2.0 kg)
+- krompir (2.0 kg)
+- luk (2.0 kg)
